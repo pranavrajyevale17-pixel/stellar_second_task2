@@ -1,0 +1,11 @@
+stellar_second_Task/
+├── README.md
+├── package.json
+├── vite.config.js
+├── index.html
+├── src/
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── stellar.js
+│   └── App.css
+└── screenshots/
